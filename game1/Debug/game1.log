@@ -1,0 +1,15 @@
+﻿  game.c
+D:\VSC\game1\game.c(124,83): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VSC\game1\game.c(130,70): error C2065: “oard”: 未声明的标识符
+D:\VSC\game1\game.c(130,72): error C2109: 下标要求数组或指针类型
+D:\VSC\game1\game.c(150,1): error C2059: 语法错误:“}”
+  test.c
+D:\VSC\game1\test.c(13,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\VSC\game1\test.c(25,17): warning C4013: “DisplayerBoard”未定义；假设外部返回 int
+D:\VSC\game1\test.c(53,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\VSC\game1\test.c(55,20): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+D:\VSC\game1\test.c(55,7): error C2198: “srand”: 用于调用的参数太少
+D:\VSC\game1\test.c(55,20): error C2059: 语法错误:“)”
+D:\VSC\game1\test.c(74,10): warning C4098: “menu”:“void”函数返回值
+D:\VSC\game1\test.c(6): fatal error C1075: “{”: 未找到匹配令牌
+  正在生成代码...
